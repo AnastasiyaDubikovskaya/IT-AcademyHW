@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+div p {
+    text-align: justify;
+    margin: 0 auto;
+    width: 15em;
+    font-family: 'Amatic SC', cursive;
+    
+}
