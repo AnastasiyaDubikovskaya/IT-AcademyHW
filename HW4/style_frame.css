@@ -1,0 +1,20 @@
+.frame {
+    background:
+    url(tl.png) no-repeat left top,
+    url(tr.png) no-repeat right top,
+    url(lb.png) no-repeat left bottom,
+    url(br.png) no-repeat right bottom,
+    url(lc.png) repeat-y left,
+    url(rc.png) repeat-y right,
+    url(tc.png) repeat-x,
+    url(bc.png) repeat-x bottom;
+    
+
+}
+
+.text {
+   white-space: pre-wrap; 
+   padding: 50px 50px;
+   font-size: 2em;
+   text-align: center;
+}
